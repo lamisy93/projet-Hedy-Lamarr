@@ -1,0 +1,46 @@
+@media screen and (max-width: 625px) {
+{
+/* propriétés pour mobile */
+}
+
+header .icon{
+  right: 10px;
+}
+
+.p1{
+  font-size: 15px;
+  left: 20%;
+}
+.p2{
+  font-size: 15px;
+  left: 20%;
+}
+.p3{
+  font-size: 15px;
+  left: 20%;
+}
+
+.p{
+  font-size: 15px;
+  left: 20%;
+  width: 100%;
+}
+
+video{
+  left: 20%;
+}
+
+.ps{
+  display: none;
+}
+
+.section{
+  font-size: 15px;
+  left: 0;
+  width: 100%;
+}
+
+@media screen and (max-width: 976px)
+{
+/* propriétés pour tablette */
+}
